@@ -1,3 +1,5 @@
 # hello-world
-just a repository
+
+Hi 
+I love JS <<3/>
 
